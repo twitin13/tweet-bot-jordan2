@@ -18,7 +18,7 @@ Shopeefood Diskon 90% s/d 25rb ‼️ Khusus untuk resto tertentu! 🍝🍜
 Cek dan klaim dari resto ini 👇
 spf.shopee.co.id/9zpsRASdja
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher gojek
+t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak Raisa malming 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -35,4 +35,5 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher gojek
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
