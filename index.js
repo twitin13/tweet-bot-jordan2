@@ -16,9 +16,10 @@ const client = new TwitterApi({
 Shopeefood Diskon 90% s/d 25rb ‼️ Khusus untuk resto tertentu! 🍝🍜
 
 Cek dan klaim dari resto ini 👇
-spf.shopee.co.id/9zpsRASdja
+https://spf.shopee.co.id/5VO2qcjMiI
+https://spf.shopee.co.id/5VO2qcjMiI
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak Raisa malming 
+t. gofood grabfood kode promo go grab shopee food sfood voucher gojek malming senin apel pagi pagii sarapan pagiii 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -35,5 +36,6 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
